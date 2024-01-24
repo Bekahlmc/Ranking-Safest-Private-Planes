@@ -2,7 +2,7 @@
 ### Lotus Baumgarner, Norman Jen, and Bekah McLaughlin
 
 <p align="center">
-  <img src = "https://github.com/Bekahlmc/Ranking-Safest-Private-Planes/blob/Bekah/Images/island_hopping.jpg">
+  <img src = "https://github.com/Bekahlmc/Ranking-Safest-Private-Planes/blob/Bekah/Images/private_jet.jpeg">
 </p> 
 
 ## The Business Need
