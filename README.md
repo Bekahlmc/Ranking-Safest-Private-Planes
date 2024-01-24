@@ -7,7 +7,7 @@
 
 ## The Business Need
 
-A luxury resort chain, Destination Hotel and Resorts (DHR), is opening a new location in Martha's Vineyard and intends to purchase private planes for guest transportation from mainland airports to the island resort property. The primary goal is to prioritize the safety of guests and mitigate risks during transportation. Additionally, DHR aims to identify, of the most cost-effective plane, the plane with the maximum aircraft range, and the plane with the greatest passsenger capacity amongst the safest options. 
+A luxury resort chain, Destination Hotel and Resorts (DHR), is opening a new location in Martha's Vineyard and intends to purchase private planes for guest transportation from mainland airports to the island resort property. The primary goal is to prioritize the safety of guests and mitigate risks during transportation. Additionally, DHR aims to identify the safest options with the most cost-effective pricing, maximum aircraft range, and the highest passenger capacity.
 
 ### Safety First:
 Data analysis will focus on evaluating a database of historical incident and accident rates of different aircrafts. From these records we will extract a list the safest potential private jet options.
