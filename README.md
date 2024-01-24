@@ -7,7 +7,7 @@
 
 ## The Business Need
 
-A luxury resort chain, Destination Hotel and Resorts (DHR), is opening a new location in Martha's Vineyard and intends to purchase private planes for guest transportation from mainland airports to the island resort property. The primary goal is to prioritize the safety of guests and mitigate risks during transportation. Additionally, DHR aims to identify the safest options with the most cost-effective pricing, maximum aircraft range, and the highest passenger capacity.
+The luxury travel resort, White Lotus, is opening a new location in Martha's Vineyard and intends to purchase private planes for guest transportation from mainland locations to the island resort property. White Lotus takes great pride in its renowned commitment to delivering a luxurious and exclusive experience, with private air travel being an integral component at this location. The primary goal is to prioritize the safety of guests and mitigate risks during transportation. Furthermore, among the safest options, White Lotus aims to pinpoint the most cost-effective and the most high-end choice.
 
 ### Safety First:
 Data analysis will focus on evaluating a database of historical incident and accident rates of different aircrafts. From these records we will extract a list the safest potential private jet options.
@@ -17,7 +17,10 @@ Data analysis will focus on evaluating a database of historical incident and acc
 ### Other Incidental Considerations:
 After compiling a list of the safest private jets, we'll also compare cost, range, and passenger capacity of the planes.
   - *Which option is the most cost effective?*
-  - *Which option can travel the longest distance?*
-  - *Which option can transport the largest amount of guest*
+  - *Which option could White Lotus splurge on for the guest experience?*
 
-**Stakeholders: Destination Hotel and Resorts owners and investors, resort guests, and DHR employees**
+**Stakeholders: White Lotus Resorts owners and investors, guests, White Lotus employees**
+
+## The Dataset
+
+This project uses the dataset Aviation Accident Database & Synopses, up to 2023, which can be found in the `Data` folder in this repository. Each entry in this dataset represents either an incident or an accident
