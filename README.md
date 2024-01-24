@@ -15,7 +15,7 @@ Data analysis will focus on evaluating a database of historical incident and acc
   - *Based on statistical analysis and chosen safety measuring method, what can we determine are the safest private jets to recommend to White Lotus?*
 
 ### Other Incidental Considerations:
-After compiling a list of the safest private jets, we'll also compare cost, range, and passenger capacity of the planes.
+After compiling a list of the safest private jets, we'll also compare cost and find a luxury option.
   - *Which option is the most cost effective?*
   - *Which option could White Lotus splurge on for the guest experience?*
 
