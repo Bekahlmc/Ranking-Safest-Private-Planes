@@ -12,7 +12,7 @@ The luxury travel resort, White Lotus, is opening a new location in Martha's Vin
 ### Safety First:
 Data analysis will focus on evaluating a database of historical incident and accident rates of different aircrafts. From these records we will extract a list the safest potential private jet options.
   - *How do we measure safety when looking at historical records of aircraft accidents and incidents?*
-  - *Based on statistical analysis and chosen safety measuring method, what can we determine are the safest private jets to recommend to DHR?*
+  - *Based on statistical analysis and chosen safety measuring method, what can we determine are the safest private jets to recommend to White Lotus?*
 
 ### Other Incidental Considerations:
 After compiling a list of the safest private jets, we'll also compare cost, range, and passenger capacity of the planes.
@@ -23,4 +23,4 @@ After compiling a list of the safest private jets, we'll also compare cost, rang
 
 ## The Dataset
 
-This project uses the dataset Aviation Accident Database & Synopses, up to 2023, which can be found in the `Data` folder in this repository. Each entry in this dataset represents either an incident or an accident
+This project uses the dataset Aviation Accident Database & Synopses, up to 2023, which can be found in the `Data` folder in this repository. This dataset was provided by National Transportation Safety Board, and each entry in this dataset represents either an incident or an accident.
