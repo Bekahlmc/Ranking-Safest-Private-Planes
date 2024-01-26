@@ -61,7 +61,7 @@ Given the extensive missing data, a comprehensive cleaning and investigation pro
 
   ## Analysis and Findings
 
-  [Check out the Dashboard of our findings here]([/guides/content/editing-an-existing-page](https://public.tableau.com/app/profile/lotus.baumgarner/viz/MakeModelSafety/MakeModelSafety?publish=yes)https://public.tableau.com/app/profile/lotus.baumgarner/viz/MakeModelSafety/MakeModelSafety?publish=yes)
+  [Check out the Dashboard of our findings here](https://public.tableau.com/app/profile/lotus.baumgarner/viz/MakeModelSafety/MakeModelSafety?publish=yes)
 
   <p align="center">
   <img src = ./Images/safestmodels.png>
