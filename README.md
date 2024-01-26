@@ -28,6 +28,30 @@ This project uses the dataset Aviation Accident Database & Synopses, up to 2023,
 
 After thorough data cleaning and analysis that will be explained step by step below, we narrowed down our options to three different planes. Of these planes, we researched and compiled a small dataset to compare cost, range, and capacity of the planes. This dataset can additionally be found in the `Data` folder. 
 
+## Cleaning and Preparing Data
+
+The initial dataset is extensive, comprising 88,889 rows and 31 columns, with a notable amount of missing data, necessitating thorough cleaning and investigation. The following steps outline our approach to preprocess and clean the data:
+
+- **Column Exclusion:**
+  Dropped columns with excessive missing or duplicate data, as well as those deemed irrelevant. These columns include:
+  Event.Id, Air.carrier, Latitude, Longitude, Airport.Code, Injury.Severity, Schedule, Purpose.of.flight, Airport.Name
+  
+- **Row Exclusion:**
+  Removed rows where the value in the "Amateur.Built" column is "Yes."
+  Excluded rows containing values other than "Airplane" in the "Aircraft.Category" column.
+  Eliminated rows with missing data in the 'Make' and 'Model' columns, given their significance to our analysis.
+  Filtered out rows with a country other than 'United States' in the 'Country' column.
+  
+- **Date Processing:**
+  Converted 'Event.Date' to a DateTime object and discarded rows with event dates prior to 1993.
+  
+- **Formatting Standardization:**
+  Rectified inconsistent formatting in the 'Make' and 'Model' columns.
+  
+- **Column Removal:**
+  Dropped the last few incomplete and irrelevant columns:
+  Country, Aircraft Category, Registration Number, Broad Phase Of Flight, Weather Condition, Publication Date
+
 ## Data Analysis and Visualization 
 
-##
+## Findings
