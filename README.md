@@ -24,9 +24,9 @@ After compiling a list of the safest private jets, we'll also compare cost and p
 
 ## The Dataset
 
-This project uses the dataset Aviation Accident Database & Synopses, up to 2023, which can be found in the `Data` folder in this repository. This dataset was provided by National Transportation Safety Board, and each entry in this dataset represents either an incident or an accident of an aircraft. The columns of the data are explained in the columns_information.md file also found in the `Data` folder.
+This project uses the dataset Aviation Accident Database & Synopses, up to 2023, which can be found in the `Data` folder in this repository. This dataset was provided by National Transportation Safety Board, and each entry in this dataset represents either an incident or an accident of an aircraft. 
 
-After thorough data cleaning and analysis that will be explained step by step below, we narrowed down our options to three different planes. Of these planes, we researched and compiled a small dataset to compare cost, range, and capacity of the planes. This dataset can additionally be found in the `Data` folder. 
+After thorough data cleaning and analysis that will be explained step by step below, we narrowed down our options to four different planes. Of these planes, we researched and compiled a small dataset to compare cost, range, and capacity of the planes. This dataset can additionally be found in the `Data` folder. 
 
 ## Data Preparation and Cleaning
 <p align="center">
